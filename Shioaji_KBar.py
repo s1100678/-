@@ -17,7 +17,7 @@ import streamlit.components.v1 as stc
 html_temp = """
 		<div style="background-color:#3872fb;padding:10px;border-radius:10px">
 		<h1 style="color:white;text-align:center;">期末作業 </h1>
-		<h2 style="color:white;text-align:center;">Financial Dashboard </h2>
+		<h2 style="color:white;text-align:center;">streamlit APP </h2>
 		</div>
 		"""
 stc.html(html_temp)
